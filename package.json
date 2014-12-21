@@ -1,0 +1,19 @@
+{
+  "name": "Objector",
+  "version": "0.0.1",
+  "description": "A set of useful utilities to work with Objects in Node.js",
+  "main": "lib/objector.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "objects",
+    "utility"
+  ],
+  "author": "Michiel van der Geest <michiel@mileswebmedia.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
