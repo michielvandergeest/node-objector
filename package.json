@@ -15,5 +15,16 @@
   "devDependencies": {
     "chai": "^1.9.2",
     "mocha": "^2.0.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michielvandergeest/node-objector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michielvandergeest/node-objector/issues"
+  },
+  "homepage": "https://github.com/michielvandergeest/node-objector"
 }
