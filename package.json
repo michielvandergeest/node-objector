@@ -1,5 +1,5 @@
 {
-  "name": "Objector",
+  "name": "objector",
   "version": "0.0.1",
   "description": "A set of useful utilities to work with Objects in Node.js",
   "main": "lib/objector.js",
