@@ -1,8 +1,8 @@
+[![Build Status](https://travis-ci.org/michielvandergeest/node-objector.svg?branch=master)](https://travis-ci.org/michielvandergeest/node-objector)
+
 #Objector
 
 ##A set of useful utilities to work with Objects in Node.js
-
-[![Build Status](https://travis-ci.org/michielvandergeest/node-objector.svg?branch=master)](https://travis-ci.org/michielvandergeest/node-objector)
 
 ###Introduction
 Objector makes working with javascript objects a bit easier. Especially nested / multilevel objects.
